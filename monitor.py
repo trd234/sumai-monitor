@@ -20,7 +20,7 @@ PROPERTIES = [
         "url": "https://www.31sumai.com/attend/X2571/",
     },
     {
-        "name": "パークコート（X1919）",
+        "name": "THE TOYOMI TOWER MAEINE&SKY",
         "url": "https://www.31sumai.com/attend/X1919/",
     },
 ]
