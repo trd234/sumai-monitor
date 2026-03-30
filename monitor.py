@@ -15,11 +15,7 @@ from datetime import datetime
 # 監視対象
 # ============================================================
 PROPERTIES = [
-    {
-        "name": "パークコート麻布十番東京",
-        "url": "https://www.31sumai.com/attend/X2571/",
-    },
-    {
+     {
         "name": "THE TOYOMI TOWER MAEINE&SKY",
         "url": "https://www.31sumai.com/attend/X1919/",
     },
