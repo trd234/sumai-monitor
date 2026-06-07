@@ -16,8 +16,7 @@ from datetime import datetime
 # ============================================================
 PROPERTIES = [
      {
-        "name": "THE TOYOMI TOWER MAEINE&SKY",
-        "url": "https://www.31sumai.com/attend/X1919/",
+        ,
     },
 ]
 
